@@ -52,3 +52,4 @@ if  (localStorage.getItem("teema") == "tumma") {
 else {
     pinkki()
 }
+
